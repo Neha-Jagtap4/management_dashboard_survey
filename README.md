@@ -54,6 +54,26 @@ Future-Ready Enhancements
 ## System Architecture
 <img width="1334" height="719" alt="Drawing 2025-08-01 14 54 17 excalidraw" src="https://github.com/user-attachments/assets/50794c88-91b2-4c99-86b2-90c5a1f457e3" />
 
+##  Project structure
+```
+/src
+     /components
+       MiniStatistics.tsx
+       TrafficSummary.tsx
+       BarChart.tsx
+       LeafletMap.tsx
+       UsersTable.tsx
+       AddMissionForm.tsx
+     /pages
+       Dashboard.tsx
+       Tables.tsx
+       Profile.tsx
+     /styles
+       Dashboard.css
+     index.tsx
+   package.json
+   README.md
+```
 ## Installation
 
 1. Clone the repository
